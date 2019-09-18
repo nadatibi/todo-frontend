@@ -1,0 +1,7 @@
+{
+    "type": "docker",
+    "port": 80,
+    "domains": [
+        "todo-app.thetestpad.com"
+    ]
+}
